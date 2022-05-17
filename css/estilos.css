@@ -244,7 +244,7 @@ html {
   }
   .header__nav__contenedor__menu.mostrarMenu {
     right: 0;
-    transition: all 0.5s;
+    transition: all 0.3s;
   }
 }
 .header__nav__contenedor__btnMenu {
@@ -263,7 +263,7 @@ html {
   }
 }
 .header__portada {
-  background-image: url("../../img/portada.png");
+  background-image: url("../img/portada.png");
   height: calc(100vh - 136px);
   background-position: center;
   background-size: cover;
